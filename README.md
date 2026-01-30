@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Sivaraj T! 👋
 
-<!--
-**Sivaraj-T-hash/Sivaraj-T-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **Information Technology** student at **Velammal Engineering College** and a **Web Developer**. I love building applications that solve real-world problems using code.
 
-Here are some ideas to get you started:
+### 🛠️ My Technical Toolbox
+- **Languages**: Python, C, C++, Java, PHP, SQL
+- **Web Development**: Flask, HTML5, CSS3, JavaScript
+- **Data Science**: Machine Learning (Random Forest), Data Visualization (Pandas, Seaborn)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- **[Smart Crop Predictor](https://github.com/Sivaraj-T-hash/Smart-Crop-Predictor-ML)**: An AI tool helping farmers choose the best crops using ML.
+- **[Digital Time Capsule](https://github.com/Sivaraj-T-hash/Digital-Time-Capsule-CPP)**: A secure C++ app for storing memories with Caesar cipher encryption.
+- **[Railway Reservation System](https://github.com/Sivaraj-T-hash/Railway-Bus-Booking-System)**: A C-based system using Linked Lists for efficient booking management.
+
+### 🌐 Connect with Me
+- 📧 Email: tsivaraj2007@gmail.com
+- 📍 Location: Tiruvannamalai, Tamil Nadu
+- 🎓 College: Velammal Engineering College (B.Tech IT)
+
+---
+*“Coding the future, one project at a time.”*
